@@ -1,0 +1,24 @@
+.weightMeasurementAll {
+    display: flex;
+  }
+  
+  .sideNavbar {
+    /* background-color: blue; */
+    width: 200px;
+    height: 150vh;
+    position: fixed;
+    z-index: 1;
+  }
+  
+  .weightMeasurement {
+    width: fit-content;
+    margin-top: 80px;
+    margin-left: 180px;
+    flex: 1;
+  }
+  
+  .loadingBg p {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+  }

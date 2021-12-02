@@ -1,0 +1,107 @@
+.userName{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.emailUser {
+  text-align: center;
+  color: #C4C4C4;
+}
+
+ 
+.pwd-container input {
+  font-size: 17px;
+  border-style: none;
+  width: 120px;
+  outline: none;
+}
+
+.pwd-container input:hover {
+  border-style: none;
+}
+ 
+.pwd-container img {
+  cursor: pointer;
+  position: absolute;
+  width: 20px;
+}
+
+.userProgress {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.progressList {
+  width: 235px;
+  height: 170px;
+  background-color: #cfebdb;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.progressList p {
+  text-align: center;
+  
+}
+
+.progressList img {
+  margin-left: 70px;
+}
+
+
+.form-grup {
+  display: block;
+  text-align: center;
+}
+
+.form-grup img {
+  height: 20px;
+}
+
+
+.imgBanner {
+  width: 100%;
+  object-fit:cover;
+}
+
+.userButton {
+  display: flex;
+  margin-left: 550px;
+
+}
+
+.userImg img{
+  margin-top: 260px;
+	width:150px;
+	height: 150px;
+	border-radius:110px;
+  object-fit: cover;
+}
+
+.userSetting {
+  margin-top: 280px;
+  margin-left: 400px;
+
+}
+
+.btnSetting {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.btnSetting img {
+  width: 30px;
+  height: 30px;
+}
+

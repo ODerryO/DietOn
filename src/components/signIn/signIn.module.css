@@ -1,0 +1,238 @@
+.loadingBg {
+  width: auto;
+  height: 820px;
+  background: linear-gradient(165deg, #18b359, #d9d9d9);
+  background-size: 400% 400%;
+  -webkit-animation: loadingBg 30s ease infinite;
+  -moz-animation: loadingBg 30s ease infinite;
+  -o-animation: loadingBg 30s ease infinite;
+  animation: loadingBg 30s ease infinite;
+}
+@-webkit-keyframes loadingBg {
+  0%{background-position:68% 0%}
+  50%{background-position:33% 100%}
+  100%{background-position:68% 0%}
+}
+@-moz-keyframes loadingBg {
+  0%{background-position:68% 0%}
+  50%{background-position:33% 100%}
+  100%{background-position:68% 0%}
+}
+@-o-keyframes loadingBg {
+  0%{background-position:68% 0%}
+  50%{background-position:33% 100%}
+  100%{background-position:68% 0%}
+}
+@keyframes loadingBg {
+  0%{background-position:68% 0%}
+  50%{background-position:33% 100%}
+  100%{background-position:68% 0%}
+}
+
+.loadingBg p {
+  padding-top: 10px;
+  padding-left: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.signIn {
+  display: flex;
+  flex-direction: row;
+  max-height: 820px;
+  max-width: auto;
+}
+
+.signInIntro {
+  margin-top: -20px;
+  font-family: "Poppins", sans-serif;
+}
+
+#welcomeBack {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+#welcomeParagraph {
+  font-family: "Poppins", sans-serif;
+  width: 450px;
+  font-size: 20px;
+}
+
+.backgroundImage {
+  position: relative;
+  display: flex;
+  justify-items: left;
+  height: 820px;
+}
+
+.backgroundSolid {
+  position: relative;
+  justify-items: right;
+  margin-left: -150px;
+  display: flex;
+  float: right;
+  width: 60%;
+  height: 820px;
+  background: #cfebdb;
+}
+
+.signInContent {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  text-align: left;
+}
+
+.logo img {
+  height: auto;
+  width: 150px;
+  margin-top: 80px;
+  margin-left: -20px;
+}
+
+.tagline p {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: #8e8e8e;
+  margin-top: -10px;
+}
+
+.form p {
+  font-family: "Poppins", sans-serif;
+}
+#email {
+  margin-top: 10px;
+}
+.form input {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  height: 30px;
+  width: 459px;
+  border-radius: 7px;
+  border: 1px solid #0e9c4a;
+
+}
+
+#password {
+ margin-top: 16px;
+  /* position: absolute; */
+}
+
+.emailWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.passwordWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.passwordWrapper img {
+  height: 24px;
+  width: 24px;
+  margin-top: 3px;
+  margin-left: -30px;
+}
+
+.form input ::placeholder {
+  color: #c4c4c4;
+}
+
+#signInButton {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  height: 40px;
+  width: 459px;
+  background-color: #0e9c4a;
+  color: white;
+  margin-top: 10px;
+  border-radius: 7px;
+  border: 1px solid #0e9c4a;
+  cursor: pointer;
+}
+
+#signInButton:hover {
+  background-color: #18b359;
+  border: 1px solid #18b359;
+}
+
+#signInButton:active {
+  background-color: #095529;
+  border: 1px solid #095529;
+}
+
+#signInGoogleButton {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  height: 40px;
+  width: 459px;
+  margin-top: 20px;
+  border-radius: 7px;
+  justify-content: center;
+  align-content: center;
+  padding-top: 5px;
+  gap: 20px;
+  border: 1px solid #0e9c4a;
+  background-color: white;
+  cursor: pointer;
+}
+
+#signInGoogleButton:hover {
+  border: 1px solid #0e9c4a;
+  background-color: #0e9c4a;
+  color: white;
+}
+
+#signInGoogleButton:active {
+  background-color: #095529;
+  border: 1px solid #095529;
+}
+
+#signInGoogleButton img {
+  padding-top: 1px;
+}
+
+#or {
+  padding-left: 225px;
+  margin-top: 20px;
+}
+
+.error {
+  font-family: "Poppins", sans-serif;
+  color: red;
+}
+
+.formControlEmailSignIn {
+  margin-left: 10px;
+  margin-top: 3px;
+  /* font-size: 10px; */
+}
+
+
+.formControlPasswordSignIn {
+  margin-left: 20px;
+  margin-top: 3px;
+}
+
+.toSignUp {
+  margin-top: 20px;
+}
+
+.toSignUp a {
+text-decoration: none;
+color:#0e9c4a;
+}
+
+.toSignUp a:hover {
+  color: #095529;
+}
+

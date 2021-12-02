@@ -1,0 +1,30 @@
+.homeAll {
+  display: flex;
+}
+
+.sideNavbar {
+  /* background-color: blue; */
+  width: 200px;
+  height: 150vh;
+  position: fixed;
+}
+
+.home {
+  width: fit-content;
+  margin-top: 180px;
+  margin-left: 150px;
+  flex: 1;
+}
+
+.loadingBg p {
+  padding-top: 10px;
+  padding-left: 10px;
+  /* color: white; */
+  font-weight: bold;
+}
+
+.nutritionFooter {
+  margin-left: -130px;
+
+}
+

@@ -1,0 +1,165 @@
+.calImg{
+    width: 93px;
+    height: 94px;
+    margin-top: 21px;
+  }
+  
+  .calNewUser {
+    margin-left: 216px !important;
+    width: 1151px;
+    height: 136px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.07);
+    background-color:rgba(255, 255, 255, 1);
+    border-radius: 10px;
+  }
+  
+  .iconCal {
+    display: flex;
+    margin-left: 50px;
+  }
+  
+  .calTittle {
+    margin-bottom: 16px;
+    margin-left: 20px !important;   
+    text-align: center;
+    margin-top: 26px;
+    font-size:  22px ;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .kcal{  
+    margin-left: 20px !important;   
+    text-align: center;
+    font-size: 20px;
+    color:black;  
+  }
+
+  .titl{
+    margin-left: 216px !important;
+    width: 1151px;
+    font-size: 24px;
+  }
+
+  .caloTitle{
+    font-weight: bold;
+  }
+
+  .caloEdit{
+    text-align: right;
+    font-weight: 100;
+    cursor: pointer;
+  }
+
+  .mealCalo{
+    margin-top: 55px;
+    margin-left: 216px !important;
+  }
+
+  .mealTitle{
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .breakfastCalo{
+    width: 496px;
+    height: 260px;
+    
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.07);
+    background-color:rgba(255, 255, 255, 1);
+  }
+
+  .breakfastLogo{
+    width: 66px;
+    height: 66px;
+    margin-top: 97px;
+    margin-left: 17px;
+  }
+
+  .breakfastText{
+    
+    margin-top: 17px;
+  }
+
+  .breakfastTitle{
+    margin-left: 91px;
+    width: 163.15px;
+    height: 35.76px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 158.85px;
+    margin-bottom: 22.24px;
+  }
+
+  .breakfastIsi{
+    margin-left: 24px;
+    font-size: 19px;
+  }
+
+  .breakfastRight{
+    text-align: right;
+    margin-right: 51px;
+  }
+
+  .bread{
+    margin-bottom: 17px;
+  }
+
+  .jam{
+    margin-bottom: 22px;
+  }
+
+  hr{
+    width: 336px;
+  }
+
+  
+
+  .modal-content{
+    width: 627px !important;
+    height: 420px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px !important;
+    display: flex !important;
+  }
+
+  .modalBody{
+    margin: 47px 49px 53px 53px;
+  }
+
+  .modalTitle{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 9px;
+  }
+
+  .modalIsi{
+    font-size: 18px;
+    margin-bottom: 38px;
+  }
+
+  .modalInput{
+    border: 2px solid #0E9C4A!important;
+    border-radius: 10px !important;
+    height: 50px !important;
+    margin-bottom: 80px;
+  }
+
+  .modalSave{
+    width: 525px;
+    height: 50px;
+    border-radius: 10px !important;
+    background-color: #0E9C4A !important;
+    border: 2px solid #0E9C4A!important;
+  }
+
+  .closeBtn{
+    position: absolute;
+    margin-left: 40rem;
+  }
+  

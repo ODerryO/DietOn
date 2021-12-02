@@ -1,0 +1,119 @@
+.facts{
+    margin-top: 134px;
+    height: 727px;
+    background-color: #0E9C4A;
+  }
+  
+  .nutFacts{
+    padding-top: 45px;
+    margin-left: 109px;
+    width: 950px;
+    margin-bottom: 103px;
+    color: black;  
+  }
+  
+  .nutTops{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  .nutMids{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .nutBots{
+    font-size: 24px;
+    font-weight: lighter;
+  }
+  
+  .cards{
+    margin-left: 109px;
+    color:black;
+  
+  }
+
+  .nutTexts{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500px;
+  }
+  
+  .nutDiets{
+    font-weight: lighter;
+  }
+
+  .lef{
+      margin-right: 20px;
+  }
+
+  .right{
+      position: absolute;
+      margin-left: 1020px;
+  }
+
+  .see{
+    text-align: right;
+    margin-right: 15px;
+  }
+
+  .all{
+    color:rgba(14, 156, 74, 1);
+  }
+
+  .seeAll{
+    font-size: 24px;
+    margin-bottom: 22px;
+    font-weight: bold;
+  }
+
+ 
+  .cards1{
+  margin-bottom: 71px;
+  color:black;
+
+}
+
+.nutTexts1{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500px;
+}
+
+.nutDiets1{
+    font-weight: lighter;
+}
+
+.lef1{
+  margin-right: 30px;
+}
+
+.right1{
+  position: absolute;
+  margin-left: 1100px;
+  height: 279px;
+  
+  object-fit: cover;
+  object-position: 20px 10px;
+
+}
+
+.lef2{
+  padding-left: 0px;
+}
+
+.lef3{
+  padding-left: 147px !important;
+}
+
+.lef4{
+  margin-left: 142px;
+}
+
+.cardss{
+  margin-top: 62px;
+}
+
+  

@@ -1,0 +1,457 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.todayEditWrapper {
+  display: flex;
+}
+
+.todayMealPlan {
+  padding-left: 70px;
+}
+
+.todayMealPlan p {
+  font-weight: bold;
+}
+
+.editMealPlan {
+  margin-left: auto;
+  padding-right: 70px;
+}
+
+.editMealPlan a {
+  text-decoration: none;
+  color: #0e9c4a;
+}
+
+.editMealPlan a:hover {
+  color: #095529;
+}
+
+.addWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.textMealPlan {
+  padding-left: 70px;
+}
+
+.textMealPlan p {
+  font-weight: bold;
+}
+
+.addMealPlan {
+  margin-left: auto;
+  padding-right: 70px;
+}
+
+.addMealPlan a {
+  text-decoration: none;
+  color: #8e8e8e;
+}
+
+.addMealPlan a:hover {
+  color: #0e9c4a;
+  cursor: pointer;
+}
+
+.addMealPlan a:disabled {
+    color: #8E8E8E;
+  }
+
+.mealPlanBox {
+  display: flex;
+  width: fit-content;
+  margin-left: 80px;
+}
+
+.mealPlanBox2 {
+  display: flex;
+  width: fit-content;
+  margin-top: 24px;
+  margin-left: 80px;
+}
+
+.mealPlanBox3 {
+  display: flex;
+  width: fit-content;
+  margin-top: 24px;
+  margin-left: 80px;
+}
+
+.breakfastLogo {
+  float: left;
+  padding-top: 14px;
+  padding-left: 37px;
+  width: 66px;
+  height: 66px;
+}
+
+.breakfast {
+  float: left;
+  position: absolute;
+  padding-top: 30px;
+  padding-left: 200px;
+  font-size: 22px;
+  text-align: left;
+}
+
+.calories {
+  float: left;
+  padding-top: 30px;
+  padding-left: 400px;
+  line-height: 10px;
+  font-size: 22px;
+  text-align: left;
+  position: absolute;
+}
+
+.sliceSpoon {
+  float: left;
+  padding-top: 30px;
+  margin-left: 600px;
+  line-height: 10px;
+  font-size: 22px;
+  text-align: left;
+  position: absolute;
+}
+
+.mealName {
+  float: right;
+  padding-top: 30px;
+  padding-right: 37px;
+  line-height: 10px;
+  font-size: 22px;
+  text-align: right;
+}
+
+/* .calender {
+  margin-left: 50px;
+} */
+
+/* MealplanNew */
+
+.addWrapperNew {
+  display: flex;
+  flex-direction: row;
+  margin-top: 87px;
+}
+
+.textMealPlanNew {
+  padding-left: 70px;
+}
+
+.textMealPlanNew p {
+  font-weight: bold;
+}
+
+.addMealPlanNew {
+  margin-left: auto;
+  padding-right: 70px;
+}
+
+.addMealPlanNew a {
+  text-decoration: none;
+  color: #0e9c4a;
+}
+
+.addMealPlanNew a:hover {
+  color: #095529;
+}
+
+/* .calenderNew {
+  margin-left: -10%;
+} */
+
+.todayEditWrapperNew {
+  display: flex;
+}
+
+.todayMealPlanNew {
+  padding-left: 70px;
+}
+
+.todayMealPlanNew p {
+  font-weight: bold;
+}
+
+.editMealPlanNew {
+  margin-left: auto;
+  padding-right: 70px;
+}
+
+.editMealPlanNew a {
+  text-decoration: none;
+  color: #8e8e8e;
+}
+
+.editMealPlanNew a:hover {
+  color: #0e9c4a;
+}
+
+.addNewLogos img {
+  /* margin: 0 auto; */
+  margin-left: 550px;
+  margin-top: 76.33px;
+  width: 160px;
+  height: 161.33px;
+}
+
+.addParagraph p {
+  font-family: "Poppins", sans-serif;
+  margin-top: 35px;
+  margin-left: 400px;
+}
+
+.addParagraph a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #0e9c4a;
+}
+
+.addParagraph a:hover {
+  color: #095529;
+}
+
+/* Add new meal plan */
+.createWrapper {
+  display: flex;
+  flex-direction: row;
+  margin-top: 92px;
+}
+
+.createMealPlan {
+  padding-left: 70px;
+  padding-top: 10px;
+}
+
+.createMealPlan p {
+  font-weight: bold;
+}
+
+.saveMealPlan {
+  margin-left: auto;
+  padding-right: 70px;
+}
+
+.saveMealPlan button {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #0e9c4a;
+  border: none;
+  font-size: 15px;
+  color: white;
+  justify-content: center;
+}
+
+.saveMealPlan button:hover {
+  background-color: #095529;
+  cursor: pointer;
+}
+
+.saveMealPlan button:disabled {
+    background-color: #8E8E8E;
+}
+
+.logoTextWrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+  padding-left: 80px;
+}
+
+.logoTextWrapper2 {
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+  padding-left: 80px;
+  margin-top: 46px;
+}
+
+.logoTextWrapper3 {
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+  padding-left: 80px;
+  margin-top: 46px;
+}
+
+.createBreakfastLogo {
+  width: 66px;
+  height: 66px;
+}
+
+.createBreakfast {
+  padding-top: 20px;
+  font-size: 22px;
+}
+
+.createMealPlanBox {
+  display: flex;
+  width: fit-content;
+  margin-left: 80px;
+  padding-top: 46px;
+}
+
+.iconAddWrapper {
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+  justify-content: center;
+  padding-top: 50px;
+  gap: 10px;
+  font-size: 22px;
+}
+
+.iconAddWrapper a {
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    color:#8E8E8E;
+
+}
+
+
+.iconAddWrapper .addIcon img {
+  width: 21.33px;
+  height: 21.33px;
+  margin-left: -80px;
+}
+.iconAddWrapper {
+  color: #8e8e8e;
+}
+
+.createMealPlanBox2 {
+  display: flex;
+  width: fit-content;
+  margin-top: 24px;
+  margin-left: 80px;
+}
+
+.createMealPlanBox3 {
+  display: flex;
+  width: fit-content;
+  margin-top: 24px;
+  margin-left: 80px;
+}
+
+
+
+/* Add New Meal Plan */
+.iconAddNewWrapper {
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 20px;
+    font-size: 22px;
+  }
+
+/* Add Food Row */
+
+.rowFoodWrapper {
+    display: flex;
+    flex-direction: row;
+    padding-top: 43px;
+    font-size: 18px;
+    text-align: center;
+    justify-content: left;
+}
+
+.rowFoodWrapper2 {
+    display: flex;
+    flex-direction: row;
+    padding-top: calc(43px *2);
+    font-size: 18px;
+    text-align: center;
+    justify-content: left;
+    margin-top:-20px;
+}
+
+
+.rowFoodWrapper3 {
+    display: flex;
+    flex-direction: row;
+    padding-top: calc(43px *2);
+    font-size: 18px;
+    text-align: center;
+    justify-content: left;
+    margin-top:-20px;
+}
+
+.foodName {
+    padding-left: 50px;
+    padding-top: 10px;
+    text-align: left !important;
+}
+
+.inputSlice {
+    margin-left: 82px;
+}
+
+.inputSlice1 {
+    margin-left: 140px;
+}
+
+.inputSlice1 input {
+    width: 83px;
+    height: 48px;
+    border-radius: 10px;
+    border: 1px solid #0E9C4A;
+    text-align: center;
+}
+
+.inputSlice input {
+    width: 83px;
+    height: 48px;
+    border-radius: 10px;
+    border: 1px solid #0E9C4A;
+    text-align: center;
+}
+
+.inputSlice input[type=number]::-webkit-inner-spin-button {
+    background-color: rosybrown;
+}
+.RDA {
+    padding-top: 10px;
+    padding-left: 82px;
+    
+}
+
+.cal {
+    padding-left: 82px;
+    padding-top: 10px;
+}
+
+.btnAdd {
+    /* padding-top: 5px; */
+    padding-left: 32px;
+}
+
+.btnAdd button {
+    width: 92px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #0e9c4a;
+    border-style: none;
+    color: white;
+}
+
+.btnAdd button:hover {
+    background-color: #095529 ;
+}
+
+
+.searchBarWrapper {
+    display: flex;
+    flex-direction: column;
+    column-gap: 5px;
+    place-content: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 22px;
+  }

@@ -1,0 +1,94 @@
+.weekPlans h2 {
+  margin-left: 100px;
+}
+
+.tracker {
+  margin-bottom: 100px;
+}
+
+.tracker h3 {
+  margin-left: 100px;
+}
+
+.caloriNewUser {
+  display: flex;
+  margin-left: 300px;
+  margin-bottom: 100px;
+}
+
+.iconCalori {
+  display: flex;
+  margin-left: 50px;
+}
+
+.caloriTittle {
+  margin-bottom: 10px;
+  margin-left: 20px !important
+}
+
+
+
+.plan {
+  margin-bottom: 100px;
+}
+
+.plan h3 {
+  margin-left: 100px;
+}
+
+.mealPlan {
+  text-align: center;
+}
+
+.planDay {
+  text-align: center;
+}
+
+.tableWeight {
+  background-color: #CFEBDB;
+  margin-right: 0px;
+  border-radius: 25px;
+}
+
+/* top-left border-radius */
+table tr:first-child th:first-child {
+  border-top-left-radius: 6px;
+}
+
+/* top-right border-radius */
+table tr:first-child th:last-child {
+  border-top-right-radius: 6px;
+}
+
+/* bottom-left border-radius */
+table tr:last-child th:first-child {
+  border-bottom-left-radius: 6px;
+}
+
+/* bottom-right border-radius */
+table tr:last-child th:last-child {
+  border-bottom-right-radius: 6px;
+}
+
+.weightMeasurement h3{
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+.tableInfo {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-align: center ;
+}
+
+.textTo {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 450px;
+}
+
+.textTo p {
+  margin-left: 5px;
+  color:#0E9C4A;
+  cursor: pointer;
+}

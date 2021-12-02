@@ -1,0 +1,30 @@
+.dateDisplay {
+  display: flex !important;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.dayDisplay {
+  display: flex !important;
+  margin-left: 49px;
+}
+
+.Calender {
+  margin-left: 400px;
+  margin-bottom: 20px;
+}
+
+.displayDate {
+  margin-left: 150px;
+  margin-bottom: 20px;
+}
+.displayDay  {
+  display: flex !important;
+}
+
+.displayDate a {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}

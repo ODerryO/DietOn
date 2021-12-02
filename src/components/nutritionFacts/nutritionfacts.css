@@ -1,0 +1,210 @@
+.homeNutri {
+  margin-left: 77.5px;
+  margin-right: 77.5px;
+}
+
+.nutriTitle {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 58px;
+}
+
+.trending {
+  margin-top: 77px;
+  color: rgba(195, 24, 21, 1);
+  font-size: 16px;
+  margin-bottom: 13px;
+  font-weight: bold;
+}
+
+.lorem {
+  margin-left: 30px;
+}
+
+.loremTitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.loremIsi {
+  font-size: 16px;
+  margin-bottom: 9px;
+}
+
+.loremJam {
+  font-size: 13px;
+}
+
+.lucy {
+  color: silver;
+  font-size: 13px;
+}
+
+.facts {
+  margin-top: 134px;
+  height: 727px;
+  background-color: #0e9c4a;
+}
+
+.nutFact {
+  padding-top: 45px;
+  margin-left: 109px;
+  width: 950px;
+  margin-bottom: 103px;
+  color: white;
+}
+
+.nutTop {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.nutMid {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.nutBot {
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+.card {
+  margin-left: 109px;
+  color: white;
+}
+
+
+
+.nutText {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500px;
+}
+
+.nutDiet {
+  font-weight: lighter;
+}
+
+.caro {
+  margin-top: 44px;
+  text-align: center;
+  margin-bottom: 38px;
+}
+
+.greenBox {
+  height: 80px;
+  background-color: rgba(14, 156, 74, 1);
+  text-align: center;
+  padding-top: 30px;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 52px;
+}
+
+.box1 {
+  height: 80px;
+  margin-bottom: 51px;
+}
+
+.boxgreen {
+  background-color: rgba(14, 156, 74, 1);
+  background-color: rgba(14, 156, 74, 1);
+  text-align: center;
+  padding-top: 30px;
+  font-size: 20px;
+  color: white;
+}
+
+.ddnut {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  background-color: red !important;
+}
+
+.btn-success {
+  height: 80px;
+  width: 321px;
+  position: absolute;
+  background: rgba(170, 204, 0, 1);
+  border-color: rgba(170, 204, 0, 1);
+  border-radius: 0px;
+}
+
+.boxSortby {
+  padding-left: 0px;
+}
+
+.foodHome {
+  margin-top: 51px;
+  margin-left: 118px;
+  margin-right: 117px;
+}
+
+.foodTitle {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 31px;
+}
+
+.foodTit {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.foodAm {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.foodDate {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.foodIsi {
+  font-size: 20px;
+}
+
+.foodSide {
+  width: 350px;
+}
+
+.foodIsi1 {
+  margin-bottom: 24px;
+}
+
+.foodSideisi {
+  margin-left: 71px;
+}
+
+.foodCard {
+  margin-left: -2px;
+  margin-right: 20px;
+  color: black;
+}
+
+.foodSideTit {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 11px;
+}
+
+.foodCardTit {
+  font-weight: bold;
+}
+
+.foodLast {
+  margin-top: 53px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 22px;
+}
+
+.foodLastisi {
+  margin-bottom: 36px;
+  font-size: 16px;
+}

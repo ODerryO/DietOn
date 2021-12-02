@@ -1,0 +1,56 @@
+.horizontalNavbar {
+    /* display: flex; */
+    width: 1440px;
+    height: 130px;
+    background-color: white;
+
+    /* margin-left: 120px; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .userWrapper {
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+    margin-left: auto;
+    padding-right: 1000px;
+    gap: 50px;
+  }
+  
+  .bell img {
+    display: flex;
+    width: 28px;
+    height: 28px;
+  }
+
+  .menuBar {
+    background-color: white;
+    margin-left: -120px;
+    width: 120px;
+    height: 150px;
+    display: flex;
+  }
+  
+  .menuBar svg {
+    margin-left: 50px;
+    margin-top: 60px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+  }
+
+  .logoWrapper {
+    width: 160px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 10px;
+    place-items: center;
+  }
+  
+  .logo img {
+    height: 70px;
+    width: auto;
+    place-items: center;
+    padding-top: 10px;
+    /* margin-left: -10px; */
+  }

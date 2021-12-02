@@ -1,0 +1,109 @@
+.user p {
+  text-decoration: none;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.fontTitle {
+  font-size: 25px;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 5px !important;
+}
+
+.bgrSearch {
+  background-color: #cfebdb;
+  width: 1000px;
+  height: 135px;
+  margin-left: 150px;
+}
+
+.wrapperSearch {
+  display: flex;
+  margin-top: 20px;
+}
+
+.exercisePlanList {
+  display: flex;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.wrapperExercise {
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-bottom: 150px;
+}
+
+.imgExercise {
+  margin-left: 100px;
+}
+
+.imgExercise img {
+  width: 40px;
+  height: 35px;
+}
+
+.exerciseList {
+  width: 50px;
+  height: 50px;
+  padding: auto;
+  margin-left: 20px;
+}
+
+.kclExercise {
+  width: 80px;;
+}
+
+.listExercise,
+.listKcl {
+  margin-top: 15px;
+}
+
+.listKcl {
+  margin-left: 50px;
+}
+
+.exerciseTime {
+  margin-left: 100px;
+}
+
+.exerciseSide {
+  margin-left: 50px;
+}
+
+.valueExercise {
+  padding: auto ;
+}
+
+.MuiOutlinedInput-root {
+  height: 40px;
+  width: 120px;
+}
+
+.timeSet {
+  height: 20px;
+}
+
+.btnExercise {
+  margin-left: 50px;
+  display: flex;
+}
+
+.btnSetAlert {
+  margin-left: 50px;
+}
+
+.btnAddExe {
+  margin-left: 20px;
+}
+
+.pickDate {
+  margin-left: 100px;
+  margin-top: 20px;
+}

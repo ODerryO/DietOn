@@ -1,0 +1,25 @@
+.mealPlanAll {
+    display: flex;
+  }
+  
+  .sideNavbar {
+    /* background-color: blue; */
+    width: 0px;
+    height: 150vh;
+    position: fixed;
+    z-index: 1;
+  }
+  
+  .mealPlan {
+    width: fit-content;
+    margin-top: 100px;
+    margin-left: 90px;
+    flex: 1;
+  }
+  
+  .loadingBg p {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  

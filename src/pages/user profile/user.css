@@ -1,0 +1,44 @@
+
+.imgBanner {
+  width: 100%;
+  object-fit:cover;
+}
+
+.userButton {
+  display: flex;
+  margin-left: 550px;
+
+}
+
+.userImg img{
+  margin-top: 260px;
+	width:150px;
+	height: 150px;
+	border-radius:110px;
+  object-fit: cover;
+}
+
+.userSetting {
+  margin-top: 280px;
+  margin-left: 400px;
+
+}
+
+.btnSetting {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.btnSetting img {
+  width: 30px;
+  height: 30px;
+}

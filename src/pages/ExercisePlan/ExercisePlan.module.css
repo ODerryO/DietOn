@@ -1,0 +1,26 @@
+.exePlanAll {
+    display: flex;
+  }
+  
+  .sideNavbar {
+    /* background-color: blue; */
+    width: 200px;
+    height: 150vh;
+    position: fixed;
+  }
+  
+  .exercisePlan {
+    width: fit-content;
+    margin-top: 180px;
+    margin-left: 200px;  /* nanti disesuaikan kalau udah ada component benerannya */
+    flex: 1;
+  }
+  
+  .loadingBg {
+    margin: 0 auto;
+  }
+  .loadingBg p {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
